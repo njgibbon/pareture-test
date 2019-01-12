@@ -1,12 +1,6 @@
 # Test Suite 2 - Website Navigation
 
 ## Test Suite desctription
-Project Name: pareture website
-Project Source Code: https://github.com/njgibbon/pareture
-Project Website base URL: https://pareture.xyz
-
-Test Plan: https://github.com/njgibbon/pareture-test/blob/master/TestPlan-Pareture.md
-
 Test Phase: 2 - Functional Test
 Test Area: Front End
 
@@ -18,19 +12,19 @@ Secondary Goal:
 
 1: Use WebDriver Automation and screen-recording for evidence. 
 This can then be cited as evidence in other test-suites. 
-i.e the User Experience suite
+i.e the User Experience suite.
 
 2: As the application is small we can go through the entire sites functionality in a short period of time (< 1 min).
 We can re-run this and watch the execution for confidence / smoke / regression testing.
 
-Suite Reporting: -
-Phase Reporting: -
+Suite Reporting: https://github.com/njgibbon/pareture-test/tree/master/functional-test/front-end/website-navigation/suite-reports
 
 Suite Design Start Date: -
 Suite Preperation Start Date: -
 Suite Execution Start Date: -
 
 # Issues relevent to multiple tests
+-
 
 
 # Tests
