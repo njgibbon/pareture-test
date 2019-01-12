@@ -1,6 +1,6 @@
 # Test Suite Report - Test Suite 2 - Website Navigation
 
-**Date**: 12/01/2018 <br/>
+**Date**: 12/01/2019 <br/>
 **Report Source**: **Test Suite Living Documentation**: <br/>
 <br/>
 https://github.com/njgibbon/pareture-test/blob/master/functional-test/front-end/website-navigation/TestSuite2-WebsiteNavigation.md <br/>
