@@ -59,7 +59,7 @@ https://github.com/njgibbon/pareture-test/tree/master/functional-test/front-end/
 **Build Version**: 81411f7d6dbd5cf709a1af8a3ca127aaa23887af - 29/12/2018 <br/>
 **Execution Date**: 12/01/2018 <br/>
 **Result**: Pass <br/>
-**Evidence**: https://youtu.be/JlYRIgJxoa4 <br/>
+**Evidence**: https://youtu.be/7iuN9ULCjY8 <br/>
 -------------------- <br/>
 
 ## Test 2.2
@@ -96,7 +96,7 @@ https://github.com/njgibbon/pareture-test/tree/master/functional-test/front-end/
 **Build Version**: 81411f7d6dbd5cf709a1af8a3ca127aaa23887af - 29/12/2018 <br/>
 **Execution Date**: 12/01/2018 <br/>
 **Result**: Pass <br/>
-**Evidence**: https://youtu.be/JlYRIgJxoa4 <br/>
+**Evidence**: https://youtu.be/7iuN9ULCjY8 <br/>
 -------------------- <br/>
 
 ## Test 2.3
@@ -132,7 +132,7 @@ https://github.com/njgibbon/pareture-test/tree/master/functional-test/front-end/
 **Build Version**: 81411f7d6dbd5cf709a1af8a3ca127aaa23887af - 29/12/2018 <br/>
 **Execution Date**: 12/01/2018 <br/>
 **Result**: Pass <br/>
-**Evidence**: https://youtu.be/JlYRIgJxoa4 <br/>
+**Evidence**: https://youtu.be/7iuN9ULCjY8 <br/>
 -------------------- <br/>
 
 ## Test 2.4
@@ -168,7 +168,7 @@ https://github.com/njgibbon/pareture-test/tree/master/functional-test/front-end/
 **Build Version**: 81411f7d6dbd5cf709a1af8a3ca127aaa23887af - 29/12/2018 <br/>
 **Execution Date**: 12/01/2018 <br/>
 **Result**: Pass <br/>
-**Evidence**: https://youtu.be/JlYRIgJxoa4 <br/>
+**Evidence**: https://youtu.be/7iuN9ULCjY8 <br/>
 -------------------- <br/>
 
 ## Test 2.5
@@ -204,7 +204,7 @@ https://github.com/njgibbon/pareture-test/tree/master/functional-test/front-end/
 **Build Version**: 81411f7d6dbd5cf709a1af8a3ca127aaa23887af - 29/12/2018 <br/>
 **Execution Date**: 12/01/2018 <br/>
 **Result**: Pass <br/>
-**Evidence**: https://youtu.be/JlYRIgJxoa4 <br/>
+**Evidence**: https://youtu.be/7iuN9ULCjY8 <br/>
 -------------------- <br/>
 
 ## Test 2.6
@@ -240,7 +240,7 @@ https://github.com/njgibbon/pareture-test/tree/master/functional-test/front-end/
 **Build Version**: 81411f7d6dbd5cf709a1af8a3ca127aaa23887af - 29/12/2018 <br/>
 **Execution Date**: 12/01/2018 <br/>
 **Result**: Pass <br/>
-**Evidence**: https://youtu.be/JlYRIgJxoa4 <br/>
+**Evidence**: https://youtu.be/7iuN9ULCjY8 <br/>
 -------------------- <br/>
 
 ## Test 2.7
@@ -276,7 +276,7 @@ https://github.com/njgibbon/pareture-test/tree/master/functional-test/front-end/
 **Build Version**: 81411f7d6dbd5cf709a1af8a3ca127aaa23887af - 29/12/2018 <br/>
 **Execution Date**: 12/01/2018 <br/>
 **Result**: Pass <br/>
-**Evidence**: https://youtu.be/JlYRIgJxoa4 <br/>
+**Evidence**: https://youtu.be/7iuN9ULCjY8 <br/>
 -------------------- <br/>
 
 ## Test 2.8
@@ -312,7 +312,7 @@ https://github.com/njgibbon/pareture-test/tree/master/functional-test/front-end/
 **Build Version**: 81411f7d6dbd5cf709a1af8a3ca127aaa23887af - 29/12/2018 <br/>
 **Execution Date**: 12/01/2018 <br/>
 **Result**: Pass <br/>
-**Evidence**: https://youtu.be/JlYRIgJxoa4 <br/>
+**Evidence**: https://youtu.be/7iuN9ULCjY8 <br/>
 -------------------- <br/>
 
 ## Test 2.9
@@ -348,7 +348,7 @@ https://github.com/njgibbon/pareture-test/tree/master/functional-test/front-end/
 **Build Version**: 81411f7d6dbd5cf709a1af8a3ca127aaa23887af - 29/12/2018 <br/>
 **Execution Date**: 12/01/2018 <br/>
 **Result**: Pass <br/>
-**Evidence**: https://youtu.be/JlYRIgJxoa4 <br/>
+**Evidence**: https://youtu.be/7iuN9ULCjY8 <br/>
 -------------------- <br/>
 
 ## Test 2.10
@@ -384,7 +384,7 @@ https://github.com/njgibbon/pareture-test/tree/master/functional-test/front-end/
 **Build Version**: 81411f7d6dbd5cf709a1af8a3ca127aaa23887af - 29/12/2018 <br/>
 **Execution Date**: 12/01/2018 <br/>
 **Result**: Pass <br/>
-**Evidence**: https://youtu.be/JlYRIgJxoa4 <br/>
+**Evidence**: https://youtu.be/7iuN9ULCjY8 <br/>
 -------------------- <br/>
 
 ## Test 2.11
@@ -420,7 +420,7 @@ https://github.com/njgibbon/pareture-test/tree/master/functional-test/front-end/
 **Build Version**: 81411f7d6dbd5cf709a1af8a3ca127aaa23887af - 29/12/2018 <br/>
 **Execution Date**: 12/01/2018 <br/>
 **Result**: Pass <br/>
-**Evidence**: https://youtu.be/JlYRIgJxoa4 <br/>
+**Evidence**: https://youtu.be/7iuN9ULCjY8 <br/>
 -------------------- <br/>
 
 ## Test 2.12
@@ -456,7 +456,7 @@ https://github.com/njgibbon/pareture-test/tree/master/functional-test/front-end/
 **Build Version**: 81411f7d6dbd5cf709a1af8a3ca127aaa23887af - 29/12/2018 <br/>
 **Execution Date**: 12/01/2018 <br/>
 **Result**: Pass <br/>
-**Evidence**: https://youtu.be/JlYRIgJxoa4 <br/>
+**Evidence**: https://youtu.be/7iuN9ULCjY8 <br/>
 -------------------- <br/>
 
 ## Test 2.13
@@ -492,7 +492,7 @@ https://github.com/njgibbon/pareture-test/tree/master/functional-test/front-end/
 **Build Version**: 81411f7d6dbd5cf709a1af8a3ca127aaa23887af - 29/12/2018 <br/>
 **Execution Date**: 12/01/2018 <br/>
 **Result**: Pass <br/>
-**Evidence**: https://youtu.be/JlYRIgJxoa4 <br/>
+**Evidence**: https://youtu.be/7iuN9ULCjY8 <br/>
 -------------------- <br/>
 
 ## Test 2.14
@@ -528,7 +528,7 @@ https://github.com/njgibbon/pareture-test/tree/master/functional-test/front-end/
 **Build Version**: 81411f7d6dbd5cf709a1af8a3ca127aaa23887af - 29/12/2018 <br/>
 **Execution Date**: 12/01/2018 <br/>
 **Result**: Pass <br/>
-**Evidence**: https://youtu.be/JlYRIgJxoa4 <br/>
+**Evidence**: https://youtu.be/7iuN9ULCjY8 <br/>
 -------------------- <br/>
 
 ## Test 2.15
@@ -564,5 +564,5 @@ https://github.com/njgibbon/pareture-test/tree/master/functional-test/front-end/
 **Build Version**: 81411f7d6dbd5cf709a1af8a3ca127aaa23887af - 29/12/2018 <br/>
 **Execution Date**: 12/01/2018 <br/>
 **Result**: Pass <br/>
-**Evidence**: https://youtu.be/JlYRIgJxoa4 <br/>
+**Evidence**: https://youtu.be/7iuN9ULCjY8 <br/>
 -------------------- <br/>
